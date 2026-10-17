@@ -1,0 +1,602 @@
+[
+  {
+    "customer_id": 1,
+    "name": "Vikram Desai",
+    "email": "vikram.desai.001@example.com",
+    "signup_date": "2026-08-13"
+  },
+  {
+    "customer_id": 2,
+    "name": "Pooja Kulkarni",
+    "email": "pooja.kulkarni.002@example.com",
+    "signup_date": "2026-03-04"
+  },
+  {
+    "customer_id": 3,
+    "name": "Vihaan Banerjee",
+    "email": "vihaan.banerjee.003@example.com",
+    "signup_date": "2026-09-29"
+  },
+  {
+    "customer_id": 4,
+    "name": "Saanvi Kulkarni",
+    "email": "saanvi.kulkarni.004@example.com",
+    "signup_date": "2026-10-12"
+  },
+  {
+    "customer_id": 5,
+    "name": "Rahul Pillai",
+    "email": "rahul.pillai.005@example.com",
+    "signup_date": "2026-10-28"
+  },
+  {
+    "customer_id": 6,
+    "name": "Ananya Gupta",
+    "email": "ananya.gupta.006@example.com",
+    "signup_date": "2026-09-20"
+  },
+  {
+    "customer_id": 7,
+    "name": "Vikram Bose",
+    "email": "vikram.bose.007@example.com",
+    "signup_date": "2026-10-16"
+  },
+  {
+    "customer_id": 8,
+    "name": "Saanvi Kulkarni",
+    "email": "saanvi.kulkarni.008@example.com",
+    "signup_date": "2026-12-30"
+  },
+  {
+    "customer_id": 9,
+    "name": "Vikram Nair",
+    "email": "vikram.nair.009@example.com",
+    "signup_date": "2026-05-10"
+  },
+  {
+    "customer_id": 10,
+    "name": "Dhruv Banerjee",
+    "email": "dhruv.banerjee.010@example.com",
+    "signup_date": "2026-10-17"
+  },
+  {
+    "customer_id": 11,
+    "name": "Shreya Kulkarni",
+    "email": "shreya.kulkarni.011@example.com",
+    "signup_date": "2026-01-03"
+  },
+  {
+    "customer_id": 12,
+    "name": "Arjun Joshi",
+    "email": "arjun.joshi.012@example.com",
+    "signup_date": "2026-01-07"
+  },
+  {
+    "customer_id": 13,
+    "name": "Neil Menon",
+    "email": "neil.menon.013@example.com",
+    "signup_date": "2026-07-04"
+  },
+  {
+    "customer_id": 14,
+    "name": "Karan Das",
+    "email": "karan.das.014@example.com",
+    "signup_date": "2026-09-18"
+  },
+  {
+    "customer_id": 15,
+    "name": "Neil Mehta",
+    "email": "neil.mehta.015@example.com",
+    "signup_date": "2026-07-14"
+  },
+  {
+    "customer_id": 16,
+    "name": "Saanvi Gupta",
+    "email": "saanvi.gupta.016@example.com",
+    "signup_date": "2026-05-04"
+  },
+  {
+    "customer_id": 17,
+    "name": "Krish Saxena",
+    "email": "krish.saxena.017@example.com",
+    "signup_date": "2026-06-30"
+  },
+  {
+    "customer_id": 18,
+    "name": "Aditi Singh",
+    "email": "aditi.singh.018@example.com",
+    "signup_date": "2026-08-08"
+  },
+  {
+    "customer_id": 19,
+    "name": "Vihaan Menon",
+    "email": "vihaan.menon.019@example.com",
+    "signup_date": "2026-02-06"
+  },
+  {
+    "customer_id": 20,
+    "name": "Harsh Bose",
+    "email": "harsh.bose.020@example.com",
+    "signup_date": "2026-10-20"
+  },
+  {
+    "customer_id": 21,
+    "name": "Kabir Banerjee",
+    "email": "kabir.banerjee.021@example.com",
+    "signup_date": "2026-06-30"
+  },
+  {
+    "customer_id": 22,
+    "name": "Aditya Nair",
+    "email": "aditya.nair.022@example.com",
+    "signup_date": "2026-01-20"
+  },
+  {
+    "customer_id": 23,
+    "name": "Ira Mishra",
+    "email": "ira.mishra.023@example.com",
+    "signup_date": "2026-05-31"
+  },
+  {
+    "customer_id": 24,
+    "name": "Mira Bose",
+    "email": "mira.bose.024@example.com",
+    "signup_date": "2026-06-06"
+  },
+  {
+    "customer_id": 25,
+    "name": "Vihaan Banerjee",
+    "email": "vihaan.banerjee.025@example.com",
+    "signup_date": "2026-12-13"
+  },
+  {
+    "customer_id": 26,
+    "name": "Saanvi Khan",
+    "email": "saanvi.khan.026@example.com",
+    "signup_date": "2026-03-20"
+  },
+  {
+    "customer_id": 27,
+    "name": "Kiara Verma",
+    "email": "kiara.verma.027@example.com",
+    "signup_date": "2026-01-03"
+  },
+  {
+    "customer_id": 28,
+    "name": "Ishaan Mishra",
+    "email": "ishaan.mishra.028@example.com",
+    "signup_date": "2026-09-09"
+  },
+  {
+    "customer_id": 29,
+    "name": "Pooja Mishra",
+    "email": "pooja.mishra.029@example.com",
+    "signup_date": "2026-02-15"
+  },
+  {
+    "customer_id": 30,
+    "name": "Meera Singh",
+    "email": "meera.singh.030@example.com",
+    "signup_date": "2026-07-16"
+  },
+  {
+    "customer_id": 31,
+    "name": "Siddharth Patel",
+    "email": "siddharth.patel.031@example.com",
+    "signup_date": "2026-02-17"
+  },
+  {
+    "customer_id": 32,
+    "name": "Priya Chopra",
+    "email": "priya.chopra.032@example.com",
+    "signup_date": "2026-03-19"
+  },
+  {
+    "customer_id": 33,
+    "name": "Varun Bose",
+    "email": "varun.bose.033@example.com",
+    "signup_date": "2026-11-14"
+  },
+  {
+    "customer_id": 34,
+    "name": "Tara Iyer",
+    "email": "tara.iyer.034@example.com",
+    "signup_date": "2026-01-25"
+  },
+  {
+    "customer_id": 35,
+    "name": "Tara Joshi",
+    "email": "tara.joshi.035@example.com",
+    "signup_date": "2026-10-09"
+  },
+  {
+    "customer_id": 36,
+    "name": "Reyansh Patel",
+    "email": "reyansh.patel.036@example.com",
+    "signup_date": "2026-08-20"
+  },
+  {
+    "customer_id": 37,
+    "name": "Ananya Bose",
+    "email": "ananya.bose.037@example.com",
+    "signup_date": "2026-09-19"
+  },
+  {
+    "customer_id": 38,
+    "name": "Rahul Bhat",
+    "email": "rahul.bhat.038@example.com",
+    "signup_date": "2026-04-25"
+  },
+  {
+    "customer_id": 39,
+    "name": "Sneha Mishra",
+    "email": "sneha.mishra.039@example.com",
+    "signup_date": "2026-06-01"
+  },
+  {
+    "customer_id": 40,
+    "name": "Advik Rao",
+    "email": "advik.rao.040@example.com",
+    "signup_date": "2026-01-16"
+  },
+  {
+    "customer_id": 41,
+    "name": "Mira Bhat",
+    "email": "mira.bhat.041@example.com",
+    "signup_date": "2026-02-23"
+  },
+  {
+    "customer_id": 42,
+    "name": "Ishita Pillai",
+    "email": "ishita.pillai.042@example.com",
+    "signup_date": "2026-01-06"
+  },
+  {
+    "customer_id": 43,
+    "name": "Mira Patel",
+    "email": "mira.patel.043@example.com",
+    "signup_date": "2026-09-17"
+  },
+  {
+    "customer_id": 44,
+    "name": "Yash Mishra",
+    "email": "yash.mishra.044@example.com",
+    "signup_date": "2026-06-09"
+  },
+  {
+    "customer_id": 45,
+    "name": "Ira Desai",
+    "email": "ira.desai.045@example.com",
+    "signup_date": "2026-06-28"
+  },
+  {
+    "customer_id": 46,
+    "name": "Ananya Chopra",
+    "email": "ananya.chopra.046@example.com",
+    "signup_date": "2026-07-22"
+  },
+  {
+    "customer_id": 47,
+    "name": "Aditya Gupta",
+    "email": "aditya.gupta.047@example.com",
+    "signup_date": "2026-12-22"
+  },
+  {
+    "customer_id": 48,
+    "name": "Dev Malhotra",
+    "email": "dev.malhotra.048@example.com",
+    "signup_date": "2026-07-30"
+  },
+  {
+    "customer_id": 49,
+    "name": "Aditya Mishra",
+    "email": "aditya.mishra.049@example.com",
+    "signup_date": "2026-12-06"
+  },
+  {
+    "customer_id": 50,
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma.050@example.com",
+    "signup_date": "2026-10-05"
+  },
+  {
+    "customer_id": 51,
+    "name": "Krish Singh",
+    "email": "krish.singh.051@example.com",
+    "signup_date": "2026-04-26"
+  },
+  {
+    "customer_id": 52,
+    "name": "Myra Patel",
+    "email": "myra.patel.052@example.com",
+    "signup_date": "2026-10-25"
+  },
+  {
+    "customer_id": 53,
+    "name": "Reyansh Malhotra",
+    "email": "reyansh.malhotra.053@example.com",
+    "signup_date": "2026-08-20"
+  },
+  {
+    "customer_id": 54,
+    "name": "Tara Kulkarni",
+    "email": "tara.kulkarni.054@example.com",
+    "signup_date": "2026-05-27"
+  },
+  {
+    "customer_id": 55,
+    "name": "Yash Mishra",
+    "email": "yash.mishra.055@example.com",
+    "signup_date": "2026-01-26"
+  },
+  {
+    "customer_id": 56,
+    "name": "Om Pillai",
+    "email": "om.pillai.056@example.com",
+    "signup_date": "2026-12-21"
+  },
+  {
+    "customer_id": 57,
+    "name": "Mira Bose",
+    "email": "mira.bose.057@example.com",
+    "signup_date": "2026-08-13"
+  },
+  {
+    "customer_id": 58,
+    "name": "Ishita Saxena",
+    "email": "ishita.saxena.058@example.com",
+    "signup_date": "2026-08-20"
+  },
+  {
+    "customer_id": 59,
+    "name": "Krish Banerjee",
+    "email": "krish.banerjee.059@example.com",
+    "signup_date": "2026-03-14"
+  },
+  {
+    "customer_id": 60,
+    "name": "Myra Saxena",
+    "email": "myra.saxena.060@example.com",
+    "signup_date": "2026-11-18"
+  },
+  {
+    "customer_id": 61,
+    "name": "Saanvi Rao",
+    "email": "saanvi.rao.061@example.com",
+    "signup_date": "2026-09-01"
+  },
+  {
+    "customer_id": 62,
+    "name": "Harsh Sharma",
+    "email": "harsh.sharma.062@example.com",
+    "signup_date": "2026-04-11"
+  },
+  {
+    "customer_id": 63,
+    "name": "Sneha Kapoor",
+    "email": "sneha.kapoor.063@example.com",
+    "signup_date": "2026-02-25"
+  },
+  {
+    "customer_id": 64,
+    "name": "Lavanya Pillai",
+    "email": "lavanya.pillai.064@example.com",
+    "signup_date": "2026-09-24"
+  },
+  {
+    "customer_id": 65,
+    "name": "Siddharth Iyer",
+    "email": "siddharth.iyer.065@example.com",
+    "signup_date": "2026-08-24"
+  },
+  {
+    "customer_id": 66,
+    "name": "Harsh Malhotra",
+    "email": "harsh.malhotra.066@example.com",
+    "signup_date": "2026-07-06"
+  },
+  {
+    "customer_id": 67,
+    "name": "Ishani Reddy",
+    "email": "ishani.reddy.067@example.com",
+    "signup_date": "2026-11-16"
+  },
+  {
+    "customer_id": 68,
+    "name": "Reyansh Khan",
+    "email": "reyansh.khan.068@example.com",
+    "signup_date": "2026-11-05"
+  },
+  {
+    "customer_id": 69,
+    "name": "Tanvi Sharma",
+    "email": "tanvi.sharma.069@example.com",
+    "signup_date": "2026-06-30"
+  },
+  {
+    "customer_id": 70,
+    "name": "Myra Joshi",
+    "email": "myra.joshi.070@example.com",
+    "signup_date": "2026-08-19"
+  },
+  {
+    "customer_id": 71,
+    "name": "Aditya Gupta",
+    "email": "aditya.gupta.071@example.com",
+    "signup_date": "2026-08-17"
+  },
+  {
+    "customer_id": 72,
+    "name": "Yash Patel",
+    "email": "yash.patel.072@example.com",
+    "signup_date": "2026-11-26"
+  },
+  {
+    "customer_id": 73,
+    "name": "Dev Iyer",
+    "email": "dev.iyer.073@example.com",
+    "signup_date": "2026-10-21"
+  },
+  {
+    "customer_id": 74,
+    "name": "Nisha Mehta",
+    "email": "nisha.mehta.074@example.com",
+    "signup_date": "2026-09-11"
+  },
+  {
+    "customer_id": 75,
+    "name": "Lavanya Kapoor",
+    "email": "lavanya.kapoor.075@example.com",
+    "signup_date": "2026-07-03"
+  },
+  {
+    "customer_id": 76,
+    "name": "Ira Saxena",
+    "email": "ira.saxena.076@example.com",
+    "signup_date": "2026-08-14"
+  },
+  {
+    "customer_id": 77,
+    "name": "Ayaan Kapoor",
+    "email": "ayaan.kapoor.077@example.com",
+    "signup_date": "2026-10-19"
+  },
+  {
+    "customer_id": 78,
+    "name": "Rahul Gupta",
+    "email": "rahul.gupta.078@example.com",
+    "signup_date": "2026-09-05"
+  },
+  {
+    "customer_id": 79,
+    "name": "Neil Saxena",
+    "email": "neil.saxena.079@example.com",
+    "signup_date": "2026-03-11"
+  },
+  {
+    "customer_id": 80,
+    "name": "Ayaan Malhotra",
+    "email": "ayaan.malhotra.080@example.com",
+    "signup_date": "2026-09-19"
+  },
+  {
+    "customer_id": 81,
+    "name": "Vikram Bose",
+    "email": "vikram.bose.081@example.com",
+    "signup_date": "2026-09-20"
+  },
+  {
+    "customer_id": 82,
+    "name": "Aditi Pillai",
+    "email": "aditi.pillai.082@example.com",
+    "signup_date": "2026-06-25"
+  },
+  {
+    "customer_id": 83,
+    "name": "Navya Reddy",
+    "email": "navya.reddy.083@example.com",
+    "signup_date": "2026-05-15"
+  },
+  {
+    "customer_id": 84,
+    "name": "Ritvik Khan",
+    "email": "ritvik.khan.084@example.com",
+    "signup_date": "2026-10-21"
+  },
+  {
+    "customer_id": 85,
+    "name": "Ira Iyer",
+    "email": "ira.iyer.085@example.com",
+    "signup_date": "2026-10-05"
+  },
+  {
+    "customer_id": 86,
+    "name": "Anika Bose",
+    "email": "anika.bose.086@example.com",
+    "signup_date": "2026-12-19"
+  },
+  {
+    "customer_id": 87,
+    "name": "Yash Bose",
+    "email": "yash.bose.087@example.com",
+    "signup_date": "2026-07-24"
+  },
+  {
+    "customer_id": 88,
+    "name": "Arjun Singh",
+    "email": "arjun.singh.088@example.com",
+    "signup_date": "2026-05-19"
+  },
+  {
+    "customer_id": 89,
+    "name": "Aarav Kapoor",
+    "email": "aarav.kapoor.089@example.com",
+    "signup_date": "2026-08-05"
+  },
+  {
+    "customer_id": 90,
+    "name": "Om Kulkarni",
+    "email": "om.kulkarni.090@example.com",
+    "signup_date": "2026-06-20"
+  },
+  {
+    "customer_id": 91,
+    "name": "Vihaan Menon",
+    "email": "vihaan.menon.091@example.com",
+    "signup_date": "2026-10-08"
+  },
+  {
+    "customer_id": 92,
+    "name": "Myra Rao",
+    "email": "myra.rao.092@example.com",
+    "signup_date": "2026-10-15"
+  },
+  {
+    "customer_id": 93,
+    "name": "Priya Mehta",
+    "email": "priya.mehta.093@example.com",
+    "signup_date": "2026-07-30"
+  },
+  {
+    "customer_id": 94,
+    "name": "Ananya Mehta",
+    "email": "ananya.mehta.094@example.com",
+    "signup_date": "2026-12-29"
+  },
+  {
+    "customer_id": 95,
+    "name": "Kavya Kulkarni",
+    "email": "kavya.kulkarni.095@example.com",
+    "signup_date": "2026-06-05"
+  },
+  {
+    "customer_id": 96,
+    "name": "Kiara Kulkarni",
+    "email": "kiara.kulkarni.096@example.com",
+    "signup_date": "2026-08-01"
+  },
+  {
+    "customer_id": 97,
+    "name": "Arjun Pillai",
+    "email": "arjun.pillai.097@example.com",
+    "signup_date": "2026-12-12"
+  },
+  {
+    "customer_id": 98,
+    "name": "Aditi Das",
+    "email": "aditi.das.098@example.com",
+    "signup_date": "2026-07-11"
+  },
+  {
+    "customer_id": 99,
+    "name": "Riya Banerjee",
+    "email": "riya.banerjee.099@example.com",
+    "signup_date": "2026-08-08"
+  },
+  {
+    "customer_id": 100,
+    "name": "Ayaan Bose",
+    "email": "ayaan.bose.100@example.com",
+    "signup_date": "2026-02-04"
+  }
+]

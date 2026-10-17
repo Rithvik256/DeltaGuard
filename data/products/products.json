@@ -1,0 +1,252 @@
+[
+  {
+    "product_id": "P001",
+    "name": "Wireless Noise-Cancelling Headphones",
+    "price": 249.99
+  },
+  {
+    "product_id": "P002",
+    "name": "Bluetooth Speaker",
+    "price": 89.5
+  },
+  {
+    "product_id": "P003",
+    "name": "Smartphone 128GB",
+    "price": 699.0
+  },
+  {
+    "product_id": "P004",
+    "name": "Smartphone 256GB",
+    "price": 849.0
+  },
+  {
+    "product_id": "P005",
+    "name": "Laptop 14-inch",
+    "price": 999.0
+  },
+  {
+    "product_id": "P006",
+    "name": "Laptop 16-inch",
+    "price": 1299.0
+  },
+  {
+    "product_id": "P007",
+    "name": "Tablet 10-inch",
+    "price": 329.0
+  },
+  {
+    "product_id": "P008",
+    "name": "Smartwatch",
+    "price": 219.99
+  },
+  {
+    "product_id": "P009",
+    "name": "Fitness Tracker",
+    "price": 79.99
+  },
+  {
+    "product_id": "P010",
+    "name": "4K Monitor 27-inch",
+    "price": 379.0
+  },
+  {
+    "product_id": "P011",
+    "name": "Mechanical Keyboard",
+    "price": 119.0
+  },
+  {
+    "product_id": "P012",
+    "name": "Wireless Mouse",
+    "price": 39.99
+  },
+  {
+    "product_id": "P013",
+    "name": "USB-C Hub",
+    "price": 54.95
+  },
+  {
+    "product_id": "P014",
+    "name": "External SSD 1TB",
+    "price": 129.0
+  },
+  {
+    "product_id": "P015",
+    "name": "External HDD 2TB",
+    "price": 89.0
+  },
+  {
+    "product_id": "P016",
+    "name": "USB-C Charger 65W",
+    "price": 34.99
+  },
+  {
+    "product_id": "P017",
+    "name": "Power Bank 20000mAh",
+    "price": 49.99
+  },
+  {
+    "product_id": "P018",
+    "name": "USB-C Cable 2m",
+    "price": 12.99
+  },
+  {
+    "product_id": "P019",
+    "name": "Laptop Sleeve",
+    "price": 24.5
+  },
+  {
+    "product_id": "P020",
+    "name": "Protective Phone Case",
+    "price": 18.99
+  },
+  {
+    "product_id": "P021",
+    "name": "Tempered Glass Screen Protector",
+    "price": 9.99
+  },
+  {
+    "product_id": "P022",
+    "name": "Webcam 1080p",
+    "price": 69.0
+  },
+  {
+    "product_id": "P023",
+    "name": "Streaming Microphone",
+    "price": 99.0
+  },
+  {
+    "product_id": "P024",
+    "name": "Wi-Fi 6 Router",
+    "price": 149.0
+  },
+  {
+    "product_id": "P025",
+    "name": "Mesh Wi-Fi Node",
+    "price": 119.0
+  },
+  {
+    "product_id": "P026",
+    "name": "Portable Projector",
+    "price": 449.0
+  },
+  {
+    "product_id": "P027",
+    "name": "Digital Camera",
+    "price": 579.0
+  },
+  {
+    "product_id": "P028",
+    "name": "Camera Tripod",
+    "price": 42.0
+  },
+  {
+    "product_id": "P029",
+    "name": "Ring Light",
+    "price": 35.0
+  },
+  {
+    "product_id": "P030",
+    "name": "Smart LED Bulb 2-Pack",
+    "price": 22.99
+  },
+  {
+    "product_id": "P031",
+    "name": "Smart Plug 2-Pack",
+    "price": 27.99
+  },
+  {
+    "product_id": "P032",
+    "name": "Robot Vacuum",
+    "price": 399.0
+  },
+  {
+    "product_id": "P033",
+    "name": "Air Purifier",
+    "price": 189.0
+  },
+  {
+    "product_id": "P034",
+    "name": "Electric Kettle",
+    "price": 39.0
+  },
+  {
+    "product_id": "P035",
+    "name": "Espresso Machine",
+    "price": 499.0
+  },
+  {
+    "product_id": "P036",
+    "name": "Blender",
+    "price": 59.0
+  },
+  {
+    "product_id": "P037",
+    "name": "Air Fryer",
+    "price": 109.0
+  },
+  {
+    "product_id": "P038",
+    "name": "Desk Lamp",
+    "price": 31.5
+  },
+  {
+    "product_id": "P039",
+    "name": "Ergonomic Office Chair",
+    "price": 289.0
+  },
+  {
+    "product_id": "P040",
+    "name": "Standing Desk Converter",
+    "price": 179.0
+  },
+  {
+    "product_id": "P041",
+    "name": "Notebook Set",
+    "price": 14.5
+  },
+  {
+    "product_id": "P042",
+    "name": "Gel Pen Pack",
+    "price": 8.99
+  },
+  {
+    "product_id": "P043",
+    "name": "Travel Backpack",
+    "price": 74.0
+  },
+  {
+    "product_id": "P044",
+    "name": "Reusable Water Bottle",
+    "price": 21.0
+  },
+  {
+    "product_id": "P045",
+    "name": "Running Shoes",
+    "price": 94.0
+  },
+  {
+    "product_id": "P046",
+    "name": "Yoga Mat",
+    "price": 29.0
+  },
+  {
+    "product_id": "P047",
+    "name": "Resistance Band Set",
+    "price": 19.5
+  },
+  {
+    "product_id": "P048",
+    "name": "Board Game",
+    "price": 34.0
+  },
+  {
+    "product_id": "P049",
+    "name": "Portable SSD 2TB",
+    "price": 219.0
+  },
+  {
+    "product_id": "P050",
+    "name": "Gaming Controller",
+    "price": 64.99
+  }
+]
