@@ -1,0 +1,51 @@
+product_id,name,price,price_category
+P001,Wireless Noise-cancelling Headphones,249.99,Medium
+P002,Bluetooth Speaker,89.5,Low
+P003,Smartphone 128gb,699,High
+P004,Smartphone 256gb,849,High
+P005,Laptop 14-inch,999,High
+P006,Laptop 16-inch,1299,High
+P007,Tablet 10-inch,329,Medium
+P008,Smartwatch,219.99,Medium
+P009,Fitness Tracker,79.99,Low
+P010,4k Monitor 27-inch,379,Medium
+P011,Mechanical Keyboard,119,Medium
+P012,Wireless Mouse,39.99,Low
+P013,Usb-c Hub,54.95,Low
+P014,External Ssd 1tb,129,Medium
+P015,External Hdd 2tb,89,Low
+P016,Usb-c Charger 65w,34.99,Low
+P017,Power Bank 20000mah,49.99,Low
+P018,Usb-c Cable 2m,12.99,Low
+P019,Laptop Sleeve,24.5,Low
+P020,Protective Phone Case,18.99,Low
+P021,Tempered Glass Screen Protector,9.99,Low
+P022,Webcam 1080p,69,Low
+P023,Streaming Microphone,99,Low
+P024,Wi-fi 6 Router,149,Medium
+P025,Mesh Wi-fi Node,119,Medium
+P026,Portable Projector,449,Medium
+P027,Digital Camera,579,High
+P028,Camera Tripod,42,Low
+P029,Ring Light,35,Low
+P030,Smart Led Bulb 2-pack,22.99,Low
+P031,Smart Plug 2-pack,27.99,Low
+P032,Robot Vacuum,399,Medium
+P033,Air Purifier,189,Medium
+P034,Electric Kettle,39,Low
+P035,Espresso Machine,499,Medium
+P036,Blender,59,Low
+P037,Air Fryer,109,Medium
+P038,Desk Lamp,31.5,Low
+P039,Ergonomic Office Chair,289,Medium
+P040,Standing Desk Converter,179,Medium
+P041,Notebook Set,14.5,Low
+P042,Gel Pen Pack,8.99,Low
+P043,Travel Backpack,74,Low
+P044,Reusable Water Bottle,21,Low
+P045,Running Shoes,94,Low
+P046,Yoga Mat,29,Low
+P047,Resistance Band Set,19.5,Low
+P048,Board Game,34,Low
+P049,Portable Ssd 2tb,219,Medium
+P050,Gaming Controller,64.99,Low

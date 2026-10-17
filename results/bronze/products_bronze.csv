@@ -1,0 +1,51 @@
+name,price,product_id,_rescued_data,processing_date,sorce_file
+Wireless Noise-Cancelling Headphones,249.99,P001,null,2026-10-17T18:12:47.085Z,products.json
+Bluetooth Speaker,89.5,P002,null,2026-10-17T18:12:47.085Z,products.json
+Smartphone 128GB,699,P003,null,2026-10-17T18:12:47.085Z,products.json
+Smartphone 256GB,849,P004,null,2026-10-17T18:12:47.085Z,products.json
+Laptop 14-inch,999,P005,null,2026-10-17T18:12:47.085Z,products.json
+Laptop 16-inch,1299,P006,null,2026-10-17T18:12:47.085Z,products.json
+Tablet 10-inch,329,P007,null,2026-10-17T18:12:47.085Z,products.json
+Smartwatch,219.99,P008,null,2026-10-17T18:12:47.085Z,products.json
+Fitness Tracker,79.99,P009,null,2026-10-17T18:12:47.085Z,products.json
+4K Monitor 27-inch,379,P010,null,2026-10-17T18:12:47.085Z,products.json
+Mechanical Keyboard,119,P011,null,2026-10-17T18:12:47.085Z,products.json
+Wireless Mouse,39.99,P012,null,2026-10-17T18:12:47.085Z,products.json
+USB-C Hub,54.95,P013,null,2026-10-17T18:12:47.085Z,products.json
+External SSD 1TB,129,P014,null,2026-10-17T18:12:47.085Z,products.json
+External HDD 2TB,89,P015,null,2026-10-17T18:12:47.085Z,products.json
+USB-C Charger 65W,34.99,P016,null,2026-10-17T18:12:47.085Z,products.json
+Power Bank 20000mAh,49.99,P017,null,2026-10-17T18:12:47.085Z,products.json
+USB-C Cable 2m,12.99,P018,null,2026-10-17T18:12:47.085Z,products.json
+Laptop Sleeve,24.5,P019,null,2026-10-17T18:12:47.085Z,products.json
+Protective Phone Case,18.99,P020,null,2026-10-17T18:12:47.085Z,products.json
+Tempered Glass Screen Protector,9.99,P021,null,2026-10-17T18:12:47.085Z,products.json
+Webcam 1080p,69,P022,null,2026-10-17T18:12:47.085Z,products.json
+Streaming Microphone,99,P023,null,2026-10-17T18:12:47.085Z,products.json
+Wi-Fi 6 Router,149,P024,null,2026-10-17T18:12:47.085Z,products.json
+Mesh Wi-Fi Node,119,P025,null,2026-10-17T18:12:47.085Z,products.json
+Portable Projector,449,P026,null,2026-10-17T18:12:47.085Z,products.json
+Digital Camera,579,P027,null,2026-10-17T18:12:47.085Z,products.json
+Camera Tripod,42,P028,null,2026-10-17T18:12:47.085Z,products.json
+Ring Light,35,P029,null,2026-10-17T18:12:47.085Z,products.json
+Smart LED Bulb 2-Pack,22.99,P030,null,2026-10-17T18:12:47.085Z,products.json
+Smart Plug 2-Pack,27.99,P031,null,2026-10-17T18:12:47.085Z,products.json
+Robot Vacuum,399,P032,null,2026-10-17T18:12:47.085Z,products.json
+Air Purifier,189,P033,null,2026-10-17T18:12:47.085Z,products.json
+Electric Kettle,39,P034,null,2026-10-17T18:12:47.085Z,products.json
+Espresso Machine,499,P035,null,2026-10-17T18:12:47.085Z,products.json
+Blender,59,P036,null,2026-10-17T18:12:47.085Z,products.json
+Air Fryer,109,P037,null,2026-10-17T18:12:47.085Z,products.json
+Desk Lamp,31.5,P038,null,2026-10-17T18:12:47.085Z,products.json
+Ergonomic Office Chair,289,P039,null,2026-10-17T18:12:47.085Z,products.json
+Standing Desk Converter,179,P040,null,2026-10-17T18:12:47.085Z,products.json
+Notebook Set,14.5,P041,null,2026-10-17T18:12:47.085Z,products.json
+Gel Pen Pack,8.99,P042,null,2026-10-17T18:12:47.085Z,products.json
+Travel Backpack,74,P043,null,2026-10-17T18:12:47.085Z,products.json
+Reusable Water Bottle,21,P044,null,2026-10-17T18:12:47.085Z,products.json
+Running Shoes,94,P045,null,2026-10-17T18:12:47.085Z,products.json
+Yoga Mat,29,P046,null,2026-10-17T18:12:47.085Z,products.json
+Resistance Band Set,19.5,P047,null,2026-10-17T18:12:47.085Z,products.json
+Board Game,34,P048,null,2026-10-17T18:12:47.085Z,products.json
+Portable SSD 2TB,219,P049,null,2026-10-17T18:12:47.085Z,products.json
+Gaming Controller,64.99,P050,null,2026-10-17T18:12:47.085Z,products.json
